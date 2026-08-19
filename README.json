@@ -1,1984 +1,2131 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Sponsors"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Postal",
+              "description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88740103,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T02:35:19Z",
+                "owner": "postalserver",
+                "repo": "postal",
+                "stars": 16742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Maddy",
+              "description": "Composable all-in-one mail server - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73098043,
+                "language": "Go",
+                "last_commit": "2026-07-24T20:55:23Z",
+                "owner": "foxcpp",
+                "repo": "maddy",
+                "stars": 6068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cuttlefish",
+              "description": "Transactional email server with a lovely web interface - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9122188,
+                "language": "Ruby",
+                "last_commit": "2024-06-27T03:33:49Z",
+                "owner": "mlandauer",
+                "repo": "cuttlefish",
+                "stars": 1623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "James",
+              "description": "James stands for Java Apache Mail Enterprise Server! - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38917208,
+                "language": "Java",
+                "last_commit": "2026-08-19T09:49:53Z",
+                "owner": "apache",
+                "repo": "james-project",
+                "stars": 1037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chasquid",
+              "description": "SMTP (email) server with a focus on simplicity, security, and ease of operation -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72696598,
+                "language": "Go",
+                "last_commit": "2026-06-07T11:42:04Z",
+                "owner": "albertito",
+                "repo": "chasquid",
+                "stars": 977
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zone-MTA",
+              "description": "Modern outbound MTA cross platform and extendable server application -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67481959,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T07:50:39Z",
+                "owner": "zone-eu",
+                "repo": "zone-mta",
+                "stars": 669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SMTPRelay",
+              "description": "Simple Golang SMTP relay/proxy server - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214820617,
+                "language": "Go",
+                "last_commit": "2026-08-17T10:19:37Z",
+                "owner": "decke",
+                "repo": "smtprelay",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KumoMTA",
+              "description": "The first Open-Source high-performance MTA developed from the ground-up for high-volume email sending environments. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602161517,
+                "language": "Rust",
+                "last_commit": "2026-08-18T06:59:03Z",
+                "owner": "KumoCorp",
+                "repo": "kumomta",
+                "stars": 521
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MailWhale",
+              "description": "A bring-your-own-SMTP-server mail relay with REST API and web UI",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 338827863,
+                "language": "Go",
+                "last_commit": "2023-12-23T08:10:38Z",
+                "owner": "muety",
+                "repo": "mailwhale",
+                "stars": 372
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DragonFly",
+              "description": "A small MTA for home and office use - , , ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2784124,
+                "language": "C",
+                "last_commit": "2026-05-29T03:42:24Z",
+                "owner": "corecode",
+                "repo": "dma",
+                "stars": 263
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SMTP Server"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Maildev",
+              "description": "mailbox SMTP Server + Web Interface for viewing and testing emails during development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9135204,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T00:56:08Z",
+                "owner": "maildev",
+                "repo": "maildev",
+                "stars": 5992
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SMTP4dev",
+              "description": "the fake smtp email server for development and testing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3171508,
+                "language": "C#",
+                "last_commit": "2026-08-13T19:31:01Z",
+                "owner": "rnwood",
+                "repo": "smtp4dev",
+                "stars": 3942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inbucket",
+              "description": "Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6107632,
+                "language": "Go",
+                "last_commit": "2026-04-02T07:14:36Z",
+                "owner": "inbucket",
+                "repo": "inbucket",
+                "stars": 2244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Opentrashmail",
+              "description": "Selfhosted trashmail solution - Receive Emails via Web UI, JSON API and RSS feed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202218801,
+                "language": "PHP",
+                "last_commit": "2025-08-28T06:05:53Z",
+                "owner": "HaschekSolutions",
+                "repo": "opentrashmail",
+                "stars": 923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blackhole",
+              "description": "Blackhole is an MTA written on top of asyncio, utilising async and await statements that dumps all mail it receives to /dev/null.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5153871,
+                "language": "Python",
+                "last_commit": "2022-10-28T16:45:31Z",
+                "owner": "kura",
+                "repo": "blackhole",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TestMSG",
+              "description": "Generate RFC-compliant e-mail messages for sending over SMTP. DKIM signed (optionally). - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 635452371,
+                "language": "Python",
+                "last_commit": "2026-01-21T17:16:22Z",
+                "owner": "yaroslaff",
+                "repo": "testmsg",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Email Testing Application"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dovecot",
+              "description": "Dovecot mail server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47690515,
+                "language": "C",
+                "last_commit": "2026-08-18T10:00:04Z",
+                "owner": "dovecot",
+                "repo": "core",
+                "stars": 1238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "James",
+              "description": "James stands for Java Apache Mail Enterprise Server! - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38917208,
+                "language": "Java",
+                "last_commit": "2026-08-19T09:49:53Z",
+                "owner": "apache",
+                "repo": "james-project",
+                "stars": 1037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cyrus",
+              "description": "Cyrus IMAP is an email, contacts and calendar server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59071965,
+                "language": "C",
+                "last_commit": "2026-08-19T12:17:22Z",
+                "owner": "cyrusimap",
+                "repo": "cyrus-imapd",
+                "stars": 642
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IMAP/POP Server"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JMAP",
+              "description": "JSON Meta Application Protocol Specification (JMAP) Specification",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26741362,
+                "language": "Makefile",
+                "last_commit": "2026-07-17T03:45:24Z",
+                "owner": "jmapio",
+                "repo": "jmap",
+                "stars": 1363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "James",
+              "description": "James stands for Java Apache Mail Enterprise Server! - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38917208,
+                "language": "Java",
+                "last_commit": "2026-08-19T09:49:53Z",
+                "owner": "apache",
+                "repo": "james-project",
+                "stars": 1037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gomap",
+              "description": "Go module for interfacing with JMAP servers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580981499,
+                "language": "Go",
+                "last_commit": "2026-06-04T04:37:51Z",
+                "owner": "cwinters8",
+                "repo": "gomap",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JMAP Server & others"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Docker Mailserver",
+              "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33037215,
+                "language": "Shell",
+                "last_commit": "2026-08-03T17:46:12Z",
+                "owner": "docker-mailserver",
+                "repo": "docker-mailserver",
+                "stars": 18759
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mailinabox",
+              "description": "Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12271469,
+                "language": "Python",
+                "last_commit": "2026-05-24T17:19:22Z",
+                "owner": "mail-in-a-box",
+                "repo": "mailinabox",
+                "stars": 15389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stalwart",
+              "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) - & ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610292163,
+                "language": "Rust",
+                "last_commit": "2026-08-19T09:35:06Z",
+                "owner": "stalwartlabs",
+                "repo": "stalwart",
+                "stars": 14258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mailu",
+              "description": "Insular email distribution - mail server as Docker images",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49386559,
+                "language": "Python",
+                "last_commit": "2026-08-17T13:29:46Z",
+                "owner": "Mailu",
+                "repo": "Mailu",
+                "stars": 7457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mox",
+              "description": "modern full-featured open source secure mail server for low-maintenance self-hosted email - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595136650,
+                "language": "Go",
+                "last_commit": "2026-08-18T21:08:38Z",
+                "owner": "mjl-",
+                "repo": "mox",
+                "stars": 5816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Forward Email",
+              "description": "All-in-one 100% open-source mail server alternative to Gmail/Mailchimp/Sendgrid (IMAP, POP3, SMTP, CalDAV) - & ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228690067,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T11:51:06Z",
+                "owner": "forwardemail",
+                "repo": "forwardemail.net",
+                "stars": 1660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zimbra Open Source Edition",
+              "description": "A full featured email service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85853612,
+                "language": "Perl",
+                "last_commit": "2026-08-17T07:35:07Z",
+                "owner": "Zimbra",
+                "repo": "zm-build",
+                "stars": 243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Excision-Mail",
+              "description": "Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244696892,
+                "language": "Jinja",
+                "last_commit": "2022-10-30T06:11:22Z",
+                "owner": "Excision-Mail",
+                "repo": "Excision-Mail",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Erooster Email Server",
+              "description": "A mail suite written in rust meant to be easy to use.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467720255,
+                "language": "Rust",
+                "last_commit": "2026-08-10T17:47:35Z",
+                "owner": "erooster-mail",
+                "repo": "erooster",
+                "stars": 61
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Complete Email Server"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rspamd",
+              "description": "Advanced spam filtering system and email processing framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9549081,
+                "language": "C",
+                "last_commit": "2026-08-17T08:30:35Z",
+                "owner": "rspamd",
+                "repo": "rspamd",
+                "stars": 2512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spamscope",
+              "description": "Fast Advanced Spam Analysis Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66502644,
+                "language": "Python",
+                "last_commit": "2025-08-06T20:54:16Z",
+                "owner": "SpamScope",
+                "repo": "spamscope",
+                "stars": 311
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentJ",
+              "description": "AgentJ is a free software anti-spam solution with human authentication and admin panel - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285586937,
+                "language": "PHP",
+                "last_commit": "2026-08-19T08:33:34Z",
+                "owner": "Probesys",
+                "repo": "agentj",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Guardian",
+              "description": "Fast and privacy-preserving email threat detection with shared intelligence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1123883503,
+                "language": "Go",
+                "last_commit": "2026-03-12T06:14:50Z",
+                "owner": "Mailuminati",
+                "repo": "Guardian",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SPAM Filtering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MailHog",
+              "description": "Web and API based SMTP testing - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18858585,
+                "language": "Go",
+                "last_commit": "2024-02-13T18:38:41Z",
+                "owner": "mailhog",
+                "repo": "MailHog",
+                "stars": 16124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MailPit",
+              "description": "An email and SMTP testing tool with API for developers - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519188364,
+                "language": "Go",
+                "last_commit": "2026-08-16T08:44:58Z",
+                "owner": "axllent",
+                "repo": "mailpit",
+                "stars": 10158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MailCrab",
+              "description": "Email test server for development, written in Rust - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555433240,
+                "language": "Rust",
+                "last_commit": "2026-08-02T12:31:11Z",
+                "owner": "tweedegolf",
+                "repo": "mailcrab",
+                "stars": 991
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robin",
+              "description": "Debug and development tool for MTA architects! Robin is a highly configurable SMTP client for testing and debugging SMTP servers. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204729772,
+                "language": "Java",
+                "last_commit": "2025-10-10T00:01:32Z",
+                "owner": "mimecast",
+                "repo": "robin",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SMTP Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mail-Parser",
+              "description": "A tool that parses emails by enhancing the Python standard library, extracting all details into a comprehensive object. ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66961987,
+                "language": "Python",
+                "last_commit": "2026-08-12T20:46:40Z",
+                "owner": "SpamScope",
+                "repo": "mail-parser",
+                "stars": 455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Libratom",
+              "description": "Python library and supporting utilities to parse and process PST and mbox email sources - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179343530,
+                "language": "Python",
+                "last_commit": "2026-01-31T04:53:24Z",
+                "owner": "libratom",
+                "repo": "libratom",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inbound SMTP to Webhook",
+              "description": "Receive email and sent parsed content/headers to webhook, attachments to S3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 859913251,
+                "language": "JavaScript",
+                "last_commit": "2025-10-09T14:10:25Z",
+                "owner": "kriiv",
+                "repo": "inbound-email",
+                "stars": 75
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Inbound - Mail Parser"
+        }
+      ],
       "title": "Sending"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Postal",
-          "description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T02:35:19Z",
-            "owner": "postalserver",
-            "repo": "postal",
-            "stars": 16742
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EmailValidator",
+              "description": "PHP Email address validator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10157178,
+                "language": "PHP",
+                "last_commit": "2025-03-20T21:39:01Z",
+                "owner": "egulias",
+                "repo": "EmailValidator",
+                "stars": 11639
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mailchecker",
+              "description": "Cross-language email validation. Backed by a database of over 55 000 throwable email domains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8557809,
+                "language": "PHP",
+                "last_commit": "2026-08-04T12:03:47Z",
+                "owner": "FGRibreau",
+                "repo": "mailchecker",
+                "stars": 1901
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Email-Verifier",
+              "description": "A Go library for email verification without sending any emails. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322539168,
+                "language": "Go",
+                "last_commit": "2026-08-17T09:52:36Z",
+                "owner": "AfterShip",
+                "repo": "email-verifier",
+                "stars": 1598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-email-validator",
+              "description": "A robust email syntax and deliverability validation library for Python. ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34234240,
+                "language": "Python",
+                "last_commit": "2026-06-26T12:52:19Z",
+                "owner": "JoshData",
+                "repo": "python-email-validator",
+                "stars": 1434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Truemail",
+              "description": "Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173723932,
+                "language": "Ruby",
+                "last_commit": "2024-04-23T08:59:17Z",
+                "owner": "truemail-rb",
+                "repo": "truemail",
+                "stars": 1271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "email-validator-js",
+              "description": "Verify email address checking MX records, and SMTP connection, check for disposable email addresses and free email providers. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 426956788,
+                "language": null,
+                "last_commit": "2025-11-22T08:30:31Z",
+                "owner": "devmehq",
+                "repo": "email-validator-js",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "validate-email",
+              "description": "Self-hosted email verification script to clean up bad invalid email address lists. Supports various commercial email verification provider APIs all in one script -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 796218890,
+                "language": null,
+                "last_commit": "2026-06-24T19:36:53Z",
+                "owner": "centminmod",
+                "repo": "validate-emails",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CustomerOS MailSherpa",
+              "description": "A CLI for verifying email address deliverability over SMTP without sending an email. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 837354260,
+                "language": "Go",
+                "last_commit": "2025-03-10T09:16:13Z",
+                "owner": "customeros",
+                "repo": "mailsherpa",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Selfsend - email-sanitizer-api",
+              "description": "A high-performance and secure REST/GraphQL API built with Rust, MongoDB & Redis for cleaning email subscriber lists. Maintains sender reputation by validating, deduplicating, and pruning inactive emails. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 962916525,
+                "language": "Rust",
+                "last_commit": "2025-08-19T18:17:10Z",
+                "owner": "SelfSend",
+                "repo": "email-sanitizer-api",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Email Verification"
         },
         {
-          "node_type": "item",
-          "title": "Maddy",
-          "description": "Composable all-in-one mail server - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-24T20:55:23Z",
-            "owner": "foxcpp",
-            "repo": "maddy",
-            "stars": 6068
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cuttlefish",
-          "description": "Transactional email server with a lovely web interface - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-06-27T03:33:49Z",
-            "owner": "mlandauer",
-            "repo": "cuttlefish",
-            "stars": 1623
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "James",
-          "description": "James stands for Java Apache Mail Enterprise Server! - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T16:56:09Z",
-            "owner": "apache",
-            "repo": "james-project",
-            "stars": 1037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chasquid",
-          "description": "SMTP (email) server with a focus on simplicity, security, and ease of operation -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-07T11:42:04Z",
-            "owner": "albertito",
-            "repo": "chasquid",
-            "stars": 977
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zone-MTA",
-          "description": "Modern outbound MTA cross platform and extendable server application -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-20T07:50:39Z",
-            "owner": "zone-eu",
-            "repo": "zone-mta",
-            "stars": 669
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SMTPRelay",
-          "description": "Simple Golang SMTP relay/proxy server - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T10:19:37Z",
-            "owner": "decke",
-            "repo": "smtprelay",
-            "stars": 631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KumoMTA",
-          "description": "The first Open-Source high-performance MTA developed from the ground-up for high-volume email sending environments. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T06:59:03Z",
-            "owner": "KumoCorp",
-            "repo": "kumomta",
-            "stars": 521
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MailWhale",
-          "description": "A bring-your-own-SMTP-server mail relay with REST API and web UI",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-12-23T08:10:38Z",
-            "owner": "muety",
-            "repo": "mailwhale",
-            "stars": 372
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DragonFly",
-          "description": "A small MTA for home and office use - , , ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-29T03:42:24Z",
-            "owner": "corecode",
-            "repo": "dma",
-            "stars": 263
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Postmaster Datas",
+              "description": "Downloads and flattends datas from Google Postmaster Tools (GPT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380964360,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:32:13Z",
+                "owner": "Mindbaz",
+                "repo": "python-gpostmaster-domains-data",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Hetrixtools Blacklist",
+              "description": "Tool to retrieve @hetrixtools data from their API and store them in flat file or in a database",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532914042,
+                "language": "Python",
+                "last_commit": "2023-03-06T19:09:12Z",
+                "owner": "Mindbaz",
+                "repo": "python-hetrixtools-blacklist",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reputation"
         }
       ],
-      "title": "SMTP Server"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Maildev",
-          "description": "mailbox SMTP Server + Web Interface for viewing and testing emails during development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T14:32:00Z",
-            "owner": "maildev",
-            "repo": "maildev",
-            "stars": 5991
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SMTP4dev",
-          "description": "the fake smtp email server for development and testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-13T19:31:01Z",
-            "owner": "rnwood",
-            "repo": "smtp4dev",
-            "stars": 3942
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inbucket",
-          "description": "Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-02T07:14:36Z",
-            "owner": "inbucket",
-            "repo": "inbucket",
-            "stars": 2244
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Opentrashmail",
-          "description": "Selfhosted trashmail solution - Receive Emails via Web UI, JSON API and RSS feed",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-08-28T06:05:53Z",
-            "owner": "HaschekSolutions",
-            "repo": "opentrashmail",
-            "stars": 922
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blackhole",
-          "description": "Blackhole is an MTA written on top of asyncio, utilising async and await statements that dumps all mail it receives to /dev/null.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-28T16:45:31Z",
-            "owner": "kura",
-            "repo": "blackhole",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TestMSG",
-          "description": "Generate RFC-compliant e-mail messages for sending over SMTP. DKIM signed (optionally). - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-21T17:16:22Z",
-            "owner": "yaroslaff",
-            "repo": "testmsg",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Email Testing Application"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dovecot",
-          "description": "Dovecot mail server",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T10:00:04Z",
-            "owner": "dovecot",
-            "repo": "core",
-            "stars": 1238
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "James",
-          "description": "James stands for Java Apache Mail Enterprise Server! - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T16:56:09Z",
-            "owner": "apache",
-            "repo": "james-project",
-            "stars": 1037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cyrus",
-          "description": "Cyrus IMAP is an email, contacts and calendar server",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T16:03:43Z",
-            "owner": "cyrusimap",
-            "repo": "cyrus-imapd",
-            "stars": 642
-          }
-        }
-      ],
-      "title": "IMAP/POP Server"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "JMAP",
-          "description": "JSON Meta Application Protocol Specification (JMAP) Specification",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-07-17T03:45:24Z",
-            "owner": "jmapio",
-            "repo": "jmap",
-            "stars": 1363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "James",
-          "description": "James stands for Java Apache Mail Enterprise Server! - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T16:56:09Z",
-            "owner": "apache",
-            "repo": "james-project",
-            "stars": 1037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gomap",
-          "description": "Go module for interfacing with JMAP servers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-04T04:37:51Z",
-            "owner": "cwinters8",
-            "repo": "gomap",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "JMAP Server & others"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Docker Mailserver",
-          "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-03T17:46:12Z",
-            "owner": "docker-mailserver",
-            "repo": "docker-mailserver",
-            "stars": 18753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mailinabox",
-          "description": "Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-24T17:19:22Z",
-            "owner": "mail-in-a-box",
-            "repo": "mailinabox",
-            "stars": 15389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stalwart",
-          "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) - & ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T12:35:51Z",
-            "owner": "stalwartlabs",
-            "repo": "stalwart",
-            "stars": 14245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mailu",
-          "description": "Insular email distribution - mail server as Docker images",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T13:29:46Z",
-            "owner": "Mailu",
-            "repo": "Mailu",
-            "stars": 7457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mox",
-          "description": "modern full-featured open source secure mail server for low-maintenance self-hosted email - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T19:58:21Z",
-            "owner": "mjl-",
-            "repo": "mox",
-            "stars": 5814
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Forward Email",
-          "description": "All-in-one 100% open-source mail server alternative to Gmail/Mailchimp/Sendgrid (IMAP, POP3, SMTP, CalDAV) - & ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T11:51:06Z",
-            "owner": "forwardemail",
-            "repo": "forwardemail.net",
-            "stars": 1660
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zimbra Open Source Edition",
-          "description": "A full featured email service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-08-17T07:35:07Z",
-            "owner": "Zimbra",
-            "repo": "zm-build",
-            "stars": 242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Excision-Mail",
-          "description": "Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jinja",
-            "last_commit": "2022-10-30T06:11:22Z",
-            "owner": "Excision-Mail",
-            "repo": "Excision-Mail",
-            "stars": 160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Erooster Email Server",
-          "description": "A mail suite written in rust meant to be easy to use.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T17:47:35Z",
-            "owner": "erooster-mail",
-            "repo": "erooster",
-            "stars": 61
-          }
-        }
-      ],
-      "title": "Complete Email Server"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rspamd",
-          "description": "Advanced spam filtering system and email processing framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T08:30:35Z",
-            "owner": "rspamd",
-            "repo": "rspamd",
-            "stars": 2511
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spamscope",
-          "description": "Fast Advanced Spam Analysis Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-06T20:54:16Z",
-            "owner": "SpamScope",
-            "repo": "spamscope",
-            "stars": 311
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentJ",
-          "description": "AgentJ is a free software anti-spam solution with human authentication and admin panel - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T12:15:12Z",
-            "owner": "Probesys",
-            "repo": "agentj",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Guardian",
-          "description": "Fast and privacy-preserving email threat detection with shared intelligence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-12T06:14:50Z",
-            "owner": "Mailuminati",
-            "repo": "Guardian",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "SPAM Filtering"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Inbox API"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MailHog",
-          "description": "Web and API based SMTP testing - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-02-13T18:38:41Z",
-            "owner": "mailhog",
-            "repo": "MailHog",
-            "stars": 16123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MailPit",
-          "description": "An email and SMTP testing tool with API for developers - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T08:44:58Z",
-            "owner": "axllent",
-            "repo": "mailpit",
-            "stars": 10143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MailCrab",
-          "description": "Email test server for development, written in Rust - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-02T12:31:11Z",
-            "owner": "tweedegolf",
-            "repo": "mailcrab",
-            "stars": 989
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robin",
-          "description": "Debug and development tool for MTA architects! Robin is a highly configurable SMTP client for testing and debugging SMTP servers. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-10-10T00:01:32Z",
-            "owner": "mimecast",
-            "repo": "robin",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "SMTP Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mail-Parser",
-          "description": "A tool that parses emails by enhancing the Python standard library, extracting all details into a comprehensive object. ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T20:46:40Z",
-            "owner": "SpamScope",
-            "repo": "mail-parser",
-            "stars": 455
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Libratom",
-          "description": "Python library and supporting utilities to parse and process PST and mbox email sources - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-31T04:53:24Z",
-            "owner": "libratom",
-            "repo": "libratom",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inbound SMTP to Webhook",
-          "description": "Receive email and sent parsed content/headers to webhook, attachments to S3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-09T14:10:25Z",
-            "owner": "kriiv",
-            "repo": "inbound-email",
-            "stars": 75
-          }
-        }
-      ],
-      "title": "Inbound - Mail Parser"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Deliverability"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "EmailValidator",
-          "description": "PHP Email address validator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-03-20T21:39:01Z",
-            "owner": "egulias",
-            "repo": "EmailValidator",
-            "stars": 11639
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mautic",
+              "description": "Open Source Marketing Automation Software",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12204147,
+                "language": "PHP",
+                "last_commit": "2026-08-19T09:01:28Z",
+                "owner": "mautic",
+                "repo": "mautic",
+                "stars": 10367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plunk",
+              "description": "Open-Source Email Platform - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 827971889,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T17:24:09Z",
+                "owner": "useplunk",
+                "repo": "plunk",
+                "stars": 5376
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sendportal",
+              "description": "Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269325451,
+                "language": "PHP",
+                "last_commit": "2024-04-19T11:59:00Z",
+                "owner": "mettle",
+                "repo": "sendportal",
+                "stars": 2159
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Marketing Platform"
         },
         {
-          "node_type": "item",
-          "title": "Mailchecker",
-          "description": "Cross-language email validation. Backed by a database of over 55 000 throwable email domains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-04T12:03:47Z",
-            "owner": "FGRibreau",
-            "repo": "mailchecker",
-            "stars": 1901
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Email-Verifier",
-          "description": "A Go library for email verification without sending any emails. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T09:52:36Z",
-            "owner": "AfterShip",
-            "repo": "email-verifier",
-            "stars": 1597
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "python-email-validator",
-          "description": "A robust email syntax and deliverability validation library for Python. ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-26T12:52:19Z",
-            "owner": "JoshData",
-            "repo": "python-email-validator",
-            "stars": 1433
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Truemail",
-          "description": "Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-04-23T08:59:17Z",
-            "owner": "truemail-rb",
-            "repo": "truemail",
-            "stars": 1271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "email-validator-js",
-          "description": "Verify email address checking MX records, and SMTP connection, check for disposable email addresses and free email providers. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2025-11-22T08:30:31Z",
-            "owner": "devmehq",
-            "repo": "email-validator-js",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "validate-email",
-          "description": "Self-hosted email verification script to clean up bad invalid email address lists. Supports various commercial email verification provider APIs all in one script -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-24T19:36:53Z",
-            "owner": "centminmod",
-            "repo": "validate-emails",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CustomerOS MailSherpa",
-          "description": "A CLI for verifying email address deliverability over SMTP without sending an email. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-10T09:16:13Z",
-            "owner": "customeros",
-            "repo": "mailsherpa",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Selfsend - email-sanitizer-api",
-          "description": "A high-performance and secure REST/GraphQL API built with Rust, MongoDB & Redis for cleaning email subscriber lists. Maintains sender reputation by validating, deduplicating, and pruning inactive emails. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-08-19T18:17:10Z",
-            "owner": "SelfSend",
-            "repo": "email-sanitizer-api",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Listmonk",
+              "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193833307,
+                "language": "Go",
+                "last_commit": "2026-08-18T18:06:31Z",
+                "owner": "knadh",
+                "repo": "listmonk",
+                "stars": 22995
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mailtrain",
+              "description": "Self hosted newsletter app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55407965,
+                "language": "JavaScript",
+                "last_commit": "2025-10-05T17:53:53Z",
+                "owner": "Mailtrain-org",
+                "repo": "mailtrain",
+                "stars": 5744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keila",
+              "description": "Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326066599,
+                "language": "Elixir",
+                "last_commit": "2026-08-18T23:14:50Z",
+                "owner": "pentacent",
+                "repo": "keila",
+                "stars": 2188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notifuse",
+              "description": "Notifuse is an open-source & modern emailing platform - , ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 948993169,
+                "language": "Go",
+                "last_commit": "2026-08-18T08:23:57Z",
+                "owner": "Notifuse",
+                "repo": "notifuse",
+                "stars": 2049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phplist3",
+              "description": "Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32042787,
+                "language": "PHP",
+                "last_commit": "2026-08-16T10:49:51Z",
+                "owner": "phpList",
+                "repo": "phplist3",
+                "stars": 869
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RSS2Newsletter",
+              "description": "Convert RSS/Atom feed to email newsletters - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816607816,
+                "language": "Python",
+                "last_commit": "2024-08-17T08:14:27Z",
+                "owner": "ElliotKillick",
+                "repo": "rss2newsletter",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MailCarrier",
+              "description": "Mailing platform with templates and logs included. - , ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 515561584,
+                "language": "PHP",
+                "last_commit": "2026-07-16T13:22:05Z",
+                "owner": "mailcarrierapp",
+                "repo": "mailcarrier",
+                "stars": 165
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Newsletter Platform"
         }
       ],
-      "title": "Email Verification"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Google Postmaster Datas",
-          "description": "Downloads and flattends datas from Google Postmaster Tools (GPT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:03:53Z",
-            "owner": "Mindbaz",
-            "repo": "python-gpostmaster-domains-data",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Hetrixtools Blacklist",
-          "description": "Tool to retrieve @hetrixtools data from their API and store them in flat file or in a database",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-06T19:09:12Z",
-            "owner": "Mindbaz",
-            "repo": "python-hetrixtools-blacklist",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Reputation"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Email Platform"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Mautic",
-          "description": "Open Source Marketing Automation Software",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T14:55:18Z",
-            "owner": "mautic",
-            "repo": "mautic",
-            "stars": 10366
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MJML",
+              "description": "Framework to make responsive-email easy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50586840,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T11:50:39Z",
+                "owner": "mjmlio",
+                "repo": "mjml",
+                "stars": 18201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Maizzle",
+              "description": "HTML email development framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161318092,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T11:31:24Z",
+                "owner": "maizzle",
+                "repo": "framework",
+                "stars": 1597
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Framework"
         },
         {
-          "node_type": "item",
-          "title": "Plunk",
-          "description": "Open-Source Email Platform - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T17:24:09Z",
-            "owner": "useplunk",
-            "repo": "plunk",
-            "stars": 5373
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Foundation for Emails 2",
+              "description": "Quickly create responsive HTML emails that work on any device and client. Even Outlook. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12933501,
+                "language": "HTML",
+                "last_commit": "2026-03-13T16:40:54Z",
+                "owner": "foundation",
+                "repo": "foundation-emails",
+                "stars": 7792
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cerberus",
+              "description": "A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14543561,
+                "language": "HTML",
+                "last_commit": "2024-07-16T01:43:44Z",
+                "owner": "emailmonday",
+                "repo": "Cerberus",
+                "stars": 5129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hermes",
+              "description": "Golang package that generates clean, responsive HTML e-mails for sending transactional mail",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86179273,
+                "language": "Go",
+                "last_commit": "2025-04-04T08:12:02Z",
+                "owner": "matcornic",
+                "repo": "hermes",
+                "stars": 3020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Maud",
+              "description": "Compile-time HTML templates for Rust - , ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28127585,
+                "language": "Rust",
+                "last_commit": "2026-05-25T11:45:34Z",
+                "owner": "lambda-fairy",
+                "repo": "maud",
+                "stars": 2625
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inky",
+              "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30990737,
+                "language": "Rust",
+                "last_commit": "2026-07-14T17:03:22Z",
+                "owner": "foundation",
+                "repo": "inky",
+                "stars": 703
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templating"
         },
         {
-          "node_type": "item",
-          "title": "Sendportal",
-          "description": "Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-04-19T11:59:00Z",
-            "owner": "mettle",
-            "repo": "sendportal",
-            "stars": 2159
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PHPMailer",
+              "description": "The classic email sending library for PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2253830,
+                "language": "PHP",
+                "last_commit": "2026-08-17T07:35:59Z",
+                "owner": "PHPMailer",
+                "repo": "PHPMailer",
+                "stars": 22279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MailKit",
+              "description": "A cross-platform .NET library for IMAP, POP3, and SMTP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14999623,
+                "language": "C#",
+                "last_commit": "2026-08-17T14:17:34Z",
+                "owner": "jstedfast",
+                "repo": "MailKit",
+                "stars": 6840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lettre",
+              "description": "a mailer library for Rust - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16481777,
+                "language": "Rust",
+                "last_commit": "2026-08-03T11:10:09Z",
+                "owner": "lettre",
+                "repo": "lettre",
+                "stars": 2253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-smtp",
+              "description": "An SMTP client & server library written in Go - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63762408,
+                "language": "Go",
+                "last_commit": "2026-08-18T08:01:46Z",
+                "owner": "emersion",
+                "repo": "go-smtp",
+                "stars": 2041
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MimeKit",
+              "description": "A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6433838,
+                "language": "C#",
+                "last_commit": "2026-08-15T21:05:44Z",
+                "owner": "jstedfast",
+                "repo": "MimeKit",
+                "stars": 2000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anymail",
+              "description": "Django email backends and webhooks for multiple ESP - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53549881,
+                "language": "Python",
+                "last_commit": "2026-07-30T22:29:31Z",
+                "owner": "anymail",
+                "repo": "django-anymail",
+                "stars": 1897
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swoosh",
+              "description": "Compose, deliver and test your emails easily in Elixir - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53172916,
+                "language": "Elixir",
+                "last_commit": "2026-08-17T10:02:38Z",
+                "owner": "swoosh",
+                "repo": "swoosh",
+                "stars": 1522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-mail",
+              "description": "Easy to use, yet comprehensive library for sending mails with Go - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466428468,
+                "language": "Go",
+                "last_commit": "2026-08-17T13:23:13Z",
+                "owner": "wneessen",
+                "repo": "go-mail",
+                "stars": 1468
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nette Mail",
+              "description": "Handy email creation and transfer library for PHP with both text and MIME-compliant support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17694037,
+                "language": "PHP",
+                "last_commit": "2026-08-18T10:11:35Z",
+                "owner": "nette",
+                "repo": "mail",
+                "stars": 493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stampie",
+              "description": "Library for using online Email providers for PHP",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2869331,
+                "language": "PHP",
+                "last_commit": "2022-06-27T14:00:24Z",
+                "owner": "Stampie",
+                "repo": "Stampie",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Play-Mailer",
+              "description": "Play mailer plugin for Scala",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25909546,
+                "language": "Scala",
+                "last_commit": "2026-08-08T00:18:38Z",
+                "owner": "playframework",
+                "repo": "play-mailer",
+                "stars": 252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-msgauth",
+              "description": "🔏 A Go library and tools for DKIM, DMARC and Authentication-Results - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81202474,
+                "language": "Go",
+                "last_commit": "2025-04-20T18:18:59Z",
+                "owner": "emersion",
+                "repo": "go-msgauth",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mailparse",
+              "description": "Rust library to parse mail files - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59927945,
+                "language": "Rust",
+                "last_commit": "2026-07-27T02:59:19Z",
+                "owner": "staktrace",
+                "repo": "mailparse",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ballerina-email",
+              "description": "Easy to use, yet comprehensive library for sending mails with Ballerina - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288615119,
+                "language": "Java",
+                "last_commit": "2026-07-19T03:16:26Z",
+                "owner": "ballerina-platform",
+                "repo": "module-ballerina-email",
+                "stars": 115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Library"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vue-Email",
+              "description": "Write email templates with vue - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597863743,
+                "language": "TypeScript",
+                "last_commit": "2026-04-10T15:03:37Z",
+                "owner": "vue-email",
+                "repo": "vue-email",
+                "stars": 1087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Premail",
+              "description": "Turns CSS blocks into style attributes ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251729,
+                "language": "Python",
+                "last_commit": "2023-12-16T17:54:12Z",
+                "owner": "peterbe",
+                "repo": "premailer",
+                "stars": 1084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Can I email",
+              "description": "Can I email… Support tables for HTML and CSS in emails.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175701270,
+                "language": "HTML",
+                "last_commit": "2026-08-10T15:15:00Z",
+                "owner": "hteumeuleu",
+                "repo": "caniemail",
+                "stars": 936
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Email CSS Resets",
+              "description": "List of email CSS normalise/resets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336062215,
+                "language": "CSS",
+                "last_commit": "2026-02-05T17:42:43Z",
+                "owner": "JayOram",
+                "repo": "email-css-resets",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HowToTarget.email",
+              "description": "How to target email clients for email development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177863106,
+                "language": "SCSS",
+                "last_commit": "2026-04-29T13:04:13Z",
+                "owner": "customerio",
+                "repo": "howtotarget",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emailens Engine",
+              "description": "Lint HTML emails against 250+ CSS properties across 15 email clients: compatibility scoring, dark mode simulation, accessibility and spam checks - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1165769256,
+                "language": "TypeScript",
+                "last_commit": "2026-07-30T21:39:24Z",
+                "owner": "emailens",
+                "repo": "engine",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         }
       ],
-      "title": "Marketing Platform"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Listmonk",
-          "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T18:06:31Z",
-            "owner": "knadh",
-            "repo": "listmonk",
-            "stars": 22976
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mailtrain",
-          "description": "Self hosted newsletter app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-05T17:53:53Z",
-            "owner": "Mailtrain-org",
-            "repo": "mailtrain",
-            "stars": 5744
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keila",
-          "description": "Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T13:06:56Z",
-            "owner": "pentacent",
-            "repo": "keila",
-            "stars": 2188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notifuse",
-          "description": "Notifuse is an open-source & modern emailing platform - , ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:23:57Z",
-            "owner": "Notifuse",
-            "repo": "notifuse",
-            "stars": 2048
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phplist3",
-          "description": "Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-16T10:49:51Z",
-            "owner": "phpList",
-            "repo": "phplist3",
-            "stars": 869
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RSS2Newsletter",
-          "description": "Convert RSS/Atom feed to email newsletters - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-17T08:14:27Z",
-            "owner": "ElliotKillick",
-            "repo": "rss2newsletter",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MailCarrier",
-          "description": "Mailing platform with templates and logs included. - , ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-16T13:22:05Z",
-            "owner": "mailcarrierapp",
-            "repo": "mailcarrier",
-            "stars": 165
-          }
-        }
-      ],
-      "title": "Newsletter Platform"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "MJML",
-          "description": "Framework to make responsive-email easy",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T11:50:39Z",
-            "owner": "mjmlio",
-            "repo": "mjml",
-            "stars": 18200
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Maizzle",
-          "description": "HTML email development framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T11:31:24Z",
-            "owner": "maizzle",
-            "repo": "framework",
-            "stars": 1598
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GrapesJS",
+              "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50146229,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T13:16:44Z",
+                "owner": "GrapesJS",
+                "repo": "grapesjs",
+                "stars": 26143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Email Editor",
+              "description": "Drag-n-Drop Email Editor Component for React.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105479936,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T21:53:06Z",
+                "owner": "unlayer",
+                "repo": "react-email-editor",
+                "stars": 5206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "maily.to",
+              "description": "Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 657626792,
+                "language": "TypeScript",
+                "last_commit": "2026-07-21T08:40:39Z",
+                "owner": "arikchakma",
+                "repo": "maily.to",
+                "stars": 3938
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Easy Email",
+              "description": "DnD Email Editor based on React.js and MJML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351729275,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T07:26:13Z",
+                "owner": "zalify",
+                "repo": "easy-email-editor",
+                "stars": 2866
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drag-and-Drop-Email-Designer",
+              "description": "Drag and drop HTML email designer - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737709580,
+                "language": "TypeScript",
+                "last_commit": "2026-06-08T10:45:14Z",
+                "owner": "SendWithSES",
+                "repo": "Drag-and-Drop-Email-Designer",
+                "stars": 2294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mosaico",
+              "description": "Responsive Email Template Editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36879081,
+                "language": "HTML",
+                "last_commit": "2025-08-22T11:37:23Z",
+                "owner": "voidlabs",
+                "repo": "mosaico",
+                "stars": 1781
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "email-builder-js",
+              "description": "A free and open-source block-based email template builder - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756896010,
+                "language": "TypeScript",
+                "last_commit": "2026-02-09T19:17:18Z",
+                "owner": "usewaypoint",
+                "repo": "email-builder-js",
+                "stars": 1734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emailmd",
+              "description": "Render markdown into email-safe HTML - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158868472,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T21:38:24Z",
+                "owner": "anypost",
+                "repo": "emailmd",
+                "stars": 1302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue Email Editor",
+              "description": "Drag-n-Drop Email Editor Component for Vue.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156020094,
+                "language": "Vue",
+                "last_commit": "2026-03-27T15:46:05Z",
+                "owner": "unlayer",
+                "repo": "vue-email-editor",
+                "stars": 665
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MySigMail Card",
+              "description": "An open source html email template builder with drag & drop editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470801259,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T01:13:44Z",
+                "owner": "mysigmail",
+                "repo": "card",
+                "stars": 417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LePatron",
+              "description": "LePatron is an opensource email builder allowing to industrialize your email template production. Build tailor made email templates and make them available to your non-technical users.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328703449,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T09:04:09Z",
+                "owner": "Badsender-com",
+                "repo": "LePatron.email",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paperbits emails",
+              "description": "Paperbits editors and generators for email templates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138123322,
+                "language": "TypeScript",
+                "last_commit": "2025-10-08T21:37:11Z",
+                "owner": "paperbits",
+                "repo": "paperbits-emails",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mdx-to-email",
+              "description": "Convert MDX files to HTML emails, fast! - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105050538,
+                "language": "JavaScript",
+                "last_commit": "2026-06-30T14:22:23Z",
+                "owner": "getvero",
+                "repo": "mdx-to-email",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "email-builder-wysiwyg",
+              "description": "A Resend Template-style WYSIWYG email editor with Notion-like editing that generates email-safe React Email templates. -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1099758664,
+                "language": "TypeScript",
+                "last_commit": "2025-12-13T09:56:07Z",
+                "owner": "stefanraath3",
+                "repo": "email-builder-wysiwyg",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Email Builder & Visual Editing Component"
         }
       ],
-      "title": "Framework"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Foundation for Emails 2",
-          "description": "Quickly create responsive HTML emails that work on any device and client. Even Outlook. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-03-13T16:40:54Z",
-            "owner": "foundation",
-            "repo": "foundation-emails",
-            "stars": 7792
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cerberus",
-          "description": "A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-07-16T01:43:44Z",
-            "owner": "emailmonday",
-            "repo": "Cerberus",
-            "stars": 5129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hermes",
-          "description": "Golang package that generates clean, responsive HTML e-mails for sending transactional mail",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-04T08:12:02Z",
-            "owner": "matcornic",
-            "repo": "hermes",
-            "stars": 3020
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Maud",
-          "description": "Compile-time HTML templates for Rust - , ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-25T11:45:34Z",
-            "owner": "lambda-fairy",
-            "repo": "maud",
-            "stars": 2625
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inky",
-          "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-14T17:03:22Z",
-            "owner": "foundation",
-            "repo": "inky",
-            "stars": 703
-          }
-        }
-      ],
-      "title": "Templating"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PHPMailer",
-          "description": "The classic email sending library for PHP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-17T07:35:59Z",
-            "owner": "PHPMailer",
-            "repo": "PHPMailer",
-            "stars": 22281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MailKit",
-          "description": "A cross-platform .NET library for IMAP, POP3, and SMTP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T14:17:34Z",
-            "owner": "jstedfast",
-            "repo": "MailKit",
-            "stars": 6840
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lettre",
-          "description": "a mailer library for Rust - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-03T11:10:09Z",
-            "owner": "lettre",
-            "repo": "lettre",
-            "stars": 2252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-smtp",
-          "description": "An SMTP client & server library written in Go - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:01:46Z",
-            "owner": "emersion",
-            "repo": "go-smtp",
-            "stars": 2040
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MimeKit",
-          "description": "A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-15T21:05:44Z",
-            "owner": "jstedfast",
-            "repo": "MimeKit",
-            "stars": 2000
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anymail",
-          "description": "Django email backends and webhooks for multiple ESP - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-30T22:29:31Z",
-            "owner": "anymail",
-            "repo": "django-anymail",
-            "stars": 1897
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swoosh",
-          "description": "Compose, deliver and test your emails easily in Elixir - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-17T10:02:38Z",
-            "owner": "swoosh",
-            "repo": "swoosh",
-            "stars": 1522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-mail",
-          "description": "Easy to use, yet comprehensive library for sending mails with Go - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T13:23:13Z",
-            "owner": "wneessen",
-            "repo": "go-mail",
-            "stars": 1467
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nette Mail",
-          "description": "Handy email creation and transfer library for PHP with both text and MIME-compliant support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T10:11:35Z",
-            "owner": "nette",
-            "repo": "mail",
-            "stars": 493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stampie",
-          "description": "Library for using online Email providers for PHP",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2022-06-27T14:00:24Z",
-            "owner": "Stampie",
-            "repo": "Stampie",
-            "stars": 294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Play-Mailer",
-          "description": "Play mailer plugin for Scala",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-08-08T00:18:38Z",
-            "owner": "playframework",
-            "repo": "play-mailer",
-            "stars": 252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-msgauth",
-          "description": "🔏 A Go library and tools for DKIM, DMARC and Authentication-Results - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-20T18:18:59Z",
-            "owner": "emersion",
-            "repo": "go-msgauth",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mailparse",
-          "description": "Rust library to parse mail files - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-27T02:59:19Z",
-            "owner": "staktrace",
-            "repo": "mailparse",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ballerina-email",
-          "description": "Easy to use, yet comprehensive library for sending mails with Ballerina - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-19T03:16:26Z",
-            "owner": "ballerina-platform",
-            "repo": "module-ballerina-email",
-            "stars": 115
-          }
-        }
-      ],
-      "title": "Library"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Vue-Email",
-          "description": "Write email templates with vue - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-10T15:03:37Z",
-            "owner": "vue-email",
-            "repo": "vue-email",
-            "stars": 1087
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Premail",
-          "description": "Turns CSS blocks into style attributes ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-16T17:54:12Z",
-            "owner": "peterbe",
-            "repo": "premailer",
-            "stars": 1084
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Can I email",
-          "description": "Can I email… Support tables for HTML and CSS in emails.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-10T15:15:00Z",
-            "owner": "hteumeuleu",
-            "repo": "caniemail",
-            "stars": 936
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Email CSS Resets",
-          "description": "List of email CSS normalise/resets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-02-05T17:42:43Z",
-            "owner": "JayOram",
-            "repo": "email-css-resets",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HowToTarget.email",
-          "description": "How to target email clients for email development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SCSS",
-            "last_commit": "2026-04-29T13:04:13Z",
-            "owner": "customerio",
-            "repo": "howtotarget",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Emailens Engine",
-          "description": "Lint HTML emails against 250+ CSS properties across 15 email clients: compatibility scoring, dark mode simulation, accessibility and spam checks - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-30T21:39:24Z",
-            "owner": "emailens",
-            "repo": "engine",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Editing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "GrapesJS",
-          "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T13:16:44Z",
-            "owner": "GrapesJS",
-            "repo": "grapesjs",
-            "stars": 26136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "React Email Editor",
-          "description": "Drag-n-Drop Email Editor Component for React.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T21:53:06Z",
-            "owner": "unlayer",
-            "repo": "react-email-editor",
-            "stars": 5205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "maily.to",
-          "description": "Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-21T08:40:39Z",
-            "owner": "arikchakma",
-            "repo": "maily.to",
-            "stars": 3932
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Easy Email",
-          "description": "DnD Email Editor based on React.js and MJML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T07:26:13Z",
-            "owner": "zalify",
-            "repo": "easy-email-editor",
-            "stars": 2864
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Drag-and-Drop-Email-Designer",
-          "description": "Drag and drop HTML email designer - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-08T10:45:14Z",
-            "owner": "SendWithSES",
-            "repo": "Drag-and-Drop-Email-Designer",
-            "stars": 2290
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mosaico",
-          "description": "Responsive Email Template Editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-08-22T11:37:23Z",
-            "owner": "voidlabs",
-            "repo": "mosaico",
-            "stars": 1781
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "email-builder-js",
-          "description": "A free and open-source block-based email template builder - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-09T19:17:18Z",
-            "owner": "usewaypoint",
-            "repo": "email-builder-js",
-            "stars": 1734
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emailmd",
-          "description": "Render markdown into email-safe HTML - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T21:38:24Z",
-            "owner": "anypost",
-            "repo": "emailmd",
-            "stars": 1302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue Email Editor",
-          "description": "Drag-n-Drop Email Editor Component for Vue.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-03-27T15:46:05Z",
-            "owner": "unlayer",
-            "repo": "vue-email-editor",
-            "stars": 665
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MySigMail Card",
-          "description": "An open source html email template builder with drag & drop editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T01:13:44Z",
-            "owner": "mysigmail",
-            "repo": "card",
-            "stars": 417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LePatron",
-          "description": "LePatron is an opensource email builder allowing to industrialize your email template production. Build tailor made email templates and make them available to your non-technical users.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T12:48:27Z",
-            "owner": "Badsender-com",
-            "repo": "LePatron.email",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Paperbits emails",
-          "description": "Paperbits editors and generators for email templates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-08T21:37:11Z",
-            "owner": "paperbits",
-            "repo": "paperbits-emails",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mdx-to-email",
-          "description": "Convert MDX files to HTML emails, fast! - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-30T14:22:23Z",
-            "owner": "getvero",
-            "repo": "mdx-to-email",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "email-builder-wysiwyg",
-          "description": "A Resend Template-style WYSIWYG email editor with Notion-like editing that generates email-safe React Email templates. -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-13T09:56:07Z",
-            "owner": "stefanraath3",
-            "repo": "email-builder-wysiwyg",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tutanota",
+              "description": "Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22344874,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:33:11Z",
+                "owner": "tutao",
+                "repo": "tutanota",
+                "stars": 7863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Roundcube",
+              "description": "The Roundcube Webmail suite - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4224042,
+                "language": "PHP",
+                "last_commit": "2026-08-16T09:09:44Z",
+                "owner": "roundcube",
+                "repo": "roundcubemail",
+                "stars": 7124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cypht",
+              "description": "Cypht: Lightweight Open Source webmail written in PHP and JavaScript - , ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16843182,
+                "language": "PHP",
+                "last_commit": "2026-08-15T11:53:04Z",
+                "owner": "cypht-org",
+                "repo": "cypht",
+                "stars": 1687
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Egroupware",
+              "description": "Web based groupware server written in PHP - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58637252,
+                "language": "PHP",
+                "last_commit": "2026-08-19T12:38:40Z",
+                "owner": "EGroupware",
+                "repo": "egroupware",
+                "stars": 295
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Groupware / Webmail"
         }
       ],
-      "title": "Email Builder & Visual Editing Component"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Email Solution"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Tutanota",
-          "description": "Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:31:24Z",
-            "owner": "tutao",
-            "repo": "tutanota",
-            "stars": 7861
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "E-Mail Header Analyzer",
+              "description": "E-Mail Header Analyzer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57030888,
+                "language": "HTML",
+                "last_commit": "2023-04-11T16:38:38Z",
+                "owner": "cyberdefenders",
+                "repo": "email-header-analyzer",
+                "stars": 700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trustymail",
+              "description": "Scan domains and return data based on trustworthy email best practices",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95620558,
+                "language": "Python",
+                "last_commit": "2026-08-05T19:56:46Z",
+                "owner": "cisagov",
+                "repo": "trustymail",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mailgoose",
+              "description": "A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716034038,
+                "language": "Python",
+                "last_commit": "2026-08-18T08:22:52Z",
+                "owner": "CERT-Polska",
+                "repo": "mailgoose",
+                "stars": 207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Domain Security Scanner",
+              "description": "Scan domains and receive advice based on their BIMI, DKIM, DMARC, and SPF records - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129287094,
+                "language": "Go",
+                "last_commit": "2026-07-15T19:54:57Z",
+                "owner": "globalcyberalliance",
+                "repo": "domain-security-scanner",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mxcheck",
+              "description": "mxcheck is an info and security scanner for e-mail servers. ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150164840,
+                "language": "Go",
+                "last_commit": "2026-07-17T07:24:33Z",
+                "owner": "steffenfritz",
+                "repo": "mxcheck",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mailsec-check",
+              "description": "Another utility to analyze state of deployment of security-related email protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217647679,
+                "language": "Go",
+                "last_commit": "2024-01-20T21:42:15Z",
+                "owner": "foxcpp",
+                "repo": "mailsec-check",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spamhaus-Intelligence-API-CLI",
+              "description": "CLI to query Spamhaus Intelligence API ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 983364647,
+                "language": "Python",
+                "last_commit": "2025-06-25T10:13:10Z",
+                "owner": "Mindbaz",
+                "repo": "Spamhaus-Intelligence-API-CLI",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security Check"
         },
         {
-          "node_type": "item",
-          "title": "Roundcube",
-          "description": "The Roundcube Webmail suite - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-16T09:09:44Z",
-            "owner": "roundcube",
-            "repo": "roundcubemail",
-            "stars": 7124
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "parsedmarc",
+              "description": "A Python package and CLI for parsing aggregate and forensic DMARC reports - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120373756,
+                "language": "Python",
+                "last_commit": "2026-08-18T22:11:41Z",
+                "owner": "domainaware",
+                "repo": "parsedmarc",
+                "stars": 1283
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "checkdmarc",
+              "description": "A parser for SPF and DMARC DNS records - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113770247,
+                "language": "Python",
+                "last_commit": "2026-08-17T22:30:53Z",
+                "owner": "domainaware",
+                "repo": "checkdmarc",
+                "stars": 318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DmarcSrg",
+              "description": "A php parser, viewer and summary report generator for incoming DMARC reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330234045,
+                "language": "PHP",
+                "last_commit": "2026-08-13T08:57:52Z",
+                "owner": "liuch",
+                "repo": "dmarc-srg",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dmarc-report-converter",
+              "description": "Convert DMARC report files from xml to human-readable formats",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130162138,
+                "language": "Go",
+                "last_commit": "2024-06-17T04:48:19Z",
+                "owner": "tierpod",
+                "repo": "dmarc-report-converter",
+                "stars": 279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open DMARC Analyzer",
+              "description": "Open DMARC Analyzer is an Open Source DMARC Report Analyzer to be used with DMARC reports that have been parsed by John Levine's rrdmarc script or techsneeze's dmarcts-report-parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188481366,
+                "language": "PHP",
+                "last_commit": "2024-06-17T16:10:14Z",
+                "owner": "userjack6880",
+                "repo": "Open-DMARC-Analyzer",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dmarcts-report-parser",
+              "description": "A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts ) - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52861574,
+                "language": "Perl",
+                "last_commit": "2023-08-19T12:07:09Z",
+                "owner": "techsneeze",
+                "repo": "dmarcts-report-parser",
+                "stars": 244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Viesti-Reports",
+              "description": "DMARC & SMTP-TLS Reports processor and visualizer and BIMI file hoster - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681318254,
+                "language": "PHP",
+                "last_commit": "2025-11-12T22:29:06Z",
+                "owner": "antedebaas",
+                "repo": "Viesti-Reports",
+                "stars": 116
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DMARC"
         },
         {
-          "node_type": "item",
-          "title": "Cypht",
-          "description": "Cypht: Lightweight Open Source webmail written in PHP and JavaScript - , ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-15T11:53:04Z",
-            "owner": "cypht-org",
-            "repo": "cypht",
-            "stars": 1685
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Egroupware",
-          "description": "Web based groupware server written in PHP - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T17:31:32Z",
-            "owner": "EGroupware",
-            "repo": "egroupware",
-            "stars": 295
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "disposable-email-domains",
+              "description": "a list of disposable and temporary email address domains - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23594485,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:50:34Z",
+                "owner": "disposable-email-domains",
+                "repo": "disposable-email-domains",
+                "stars": 5431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "disposable",
+              "description": "A list of disposable/temporary email address domains - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30192749,
+                "language": "Python",
+                "last_commit": "2026-08-09T12:32:01Z",
+                "owner": "disposable",
+                "repo": "disposable",
+                "stars": 1432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "disposable-email-domain-list",
+              "description": "A list of disposable email domains, cleaned and validated by scanning MX records. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177930612,
+                "language": "Python",
+                "last_commit": "2026-08-17T05:49:28Z",
+                "owner": "groundcat",
+                "repo": "disposable-email-domain-list",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "disposable-email-domains (another one)",
+              "description": "Disposable email domain lists, used in disposable email services, generated every quarter of an hour, in txt and JSON format. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276372403,
+                "language": "PHP",
+                "last_commit": "2026-08-19T12:03:11Z",
+                "owner": "amieiro",
+                "repo": "disposable-email-domains",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "email_data",
+              "description": "This project is a compilation of datasets related to emails. Includes disposable emails, disposable domains, and free email services. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298902985,
+                "language": "Ruby",
+                "last_commit": "2026-08-16T01:08:58Z",
+                "owner": "fnando",
+                "repo": "email_data",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "disposable-email-domains (another one too)",
+              "description": "Anti-cheating, temporary (disposable/throwaway) email list - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178031212,
+                "language": "Shell",
+                "last_commit": "2026-08-19T02:15:52Z",
+                "owner": "kslr",
+                "repo": "disposable-email-domains",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "disposable-email-domains (Verifly)",
+              "description": "Daily-refreshed master list of ~162,000 disposable/temporary email domains, plus role-account local-parts and verified dead-MX domains, in txt and JSON. - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1282111378,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:02:50Z",
+                "owner": "james-sib",
+                "repo": "disposable-email-domains",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Disposable emails domain list"
         }
       ],
-      "title": "Groupware / Webmail"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Security"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "E-Mail Header Analyzer",
-          "description": "E-Mail Header Analyzer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-04-11T16:38:38Z",
-            "owner": "cyberdefenders",
-            "repo": "email-header-analyzer",
-            "stars": 700
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trustymail",
-          "description": "Scan domains and return data based on trustworthy email best practices",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T19:56:46Z",
-            "owner": "cisagov",
-            "repo": "trustymail",
-            "stars": 224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mailgoose",
-          "description": "A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:22:52Z",
-            "owner": "CERT-Polska",
-            "repo": "mailgoose",
-            "stars": 207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Domain Security Scanner",
-          "description": "Scan domains and receive advice based on their BIMI, DKIM, DMARC, and SPF records - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-15T19:54:57Z",
-            "owner": "globalcyberalliance",
-            "repo": "domain-security-scanner",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mxcheck",
-          "description": "mxcheck is an info and security scanner for e-mail servers. ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-17T07:24:33Z",
-            "owner": "steffenfritz",
-            "repo": "mxcheck",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mailsec-check",
-          "description": "Another utility to analyze state of deployment of security-related email protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-01-20T21:42:15Z",
-            "owner": "foxcpp",
-            "repo": "mailsec-check",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spamhaus-Intelligence-API-CLI",
-          "description": "CLI to query Spamhaus Intelligence API ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-25T10:13:10Z",
-            "owner": "Mindbaz",
-            "repo": "Spamhaus-Intelligence-API-CLI",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Security Check"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "parsedmarc",
-          "description": "A Python package and CLI for parsing aggregate and forensic DMARC reports - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:56:48Z",
-            "owner": "domainaware",
-            "repo": "parsedmarc",
-            "stars": 1281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "checkdmarc",
-          "description": "A parser for SPF and DMARC DNS records - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T22:30:53Z",
-            "owner": "domainaware",
-            "repo": "checkdmarc",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DmarcSrg",
-          "description": "A php parser, viewer and summary report generator for incoming DMARC reports.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-13T08:57:52Z",
-            "owner": "liuch",
-            "repo": "dmarc-srg",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dmarc-report-converter",
-          "description": "Convert DMARC report files from xml to human-readable formats",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-17T04:48:19Z",
-            "owner": "tierpod",
-            "repo": "dmarc-report-converter",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open DMARC Analyzer",
-          "description": "Open DMARC Analyzer is an Open Source DMARC Report Analyzer to be used with DMARC reports that have been parsed by John Levine's rrdmarc script or techsneeze's dmarcts-report-parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-06-17T16:10:14Z",
-            "owner": "userjack6880",
-            "repo": "Open-DMARC-Analyzer",
-            "stars": 272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dmarcts-report-parser",
-          "description": "A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts ) - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2023-08-19T12:07:09Z",
-            "owner": "techsneeze",
-            "repo": "dmarcts-report-parser",
-            "stars": 244
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Viesti-Reports",
-          "description": "DMARC & SMTP-TLS Reports processor and visualizer and BIMI file hoster - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-11-12T22:29:06Z",
-            "owner": "antedebaas",
-            "repo": "Viesti-Reports",
-            "stars": 116
-          }
-        }
-      ],
-      "title": "DMARC"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "disposable-email-domains",
-          "description": "a list of disposable and temporary email address domains - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:25:25Z",
-            "owner": "disposable-email-domains",
-            "repo": "disposable-email-domains",
-            "stars": 5429
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "disposable",
-          "description": "A list of disposable/temporary email address domains - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T12:32:01Z",
-            "owner": "disposable",
-            "repo": "disposable",
-            "stars": 1430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "disposable-email-domain-list",
-          "description": "A list of disposable email domains, cleaned and validated by scanning MX records. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T05:49:28Z",
-            "owner": "groundcat",
-            "repo": "disposable-email-domain-list",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "disposable-email-domains (another one)",
-          "description": "Disposable email domain lists, used in disposable email services, generated every quarter of an hour, in txt and JSON format. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T17:45:22Z",
-            "owner": "amieiro",
-            "repo": "disposable-email-domains",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "email_data",
-          "description": "This project is a compilation of datasets related to emails. Includes disposable emails, disposable domains, and free email services. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-16T01:08:58Z",
-            "owner": "fnando",
-            "repo": "email_data",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "disposable-email-domains (another one too)",
-          "description": "Anti-cheating, temporary (disposable/throwaway) email list - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-18T02:13:16Z",
-            "owner": "kslr",
-            "repo": "disposable-email-domains",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "disposable-email-domains (Verifly)",
-          "description": "Daily-refreshed master list of ~162,000 disposable/temporary email domains, plus role-account local-parts and verified dead-MX domains, in txt and JSON. - ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:01:29Z",
-            "owner": "james-sib",
-            "repo": "disposable-email-domains",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Disposable emails domain list"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1987,6 +2134,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1422820,
             "language": "Shell",
             "last_commit": "2026-07-23T14:45:22Z",
             "owner": "imapsync",
@@ -2001,6 +2149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1071015750,
             "language": "JavaScript",
             "last_commit": "2026-04-07T07:05:33Z",
             "owner": "Mindbaz",
@@ -2013,8 +2162,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:15:28.171Z",
+    "last_updated": "2026-08-19T12:42:58.584Z",
     "original_repository": "Mindbaz/awesome-opensource-email",
+    "original_repository_id": 450527643,
     "original_repository_sha": "a45293c1f695bbe7c7debab482d3c50c7e441e2c",
     "enhanced_repository": "enhansome/enhansome-opensource-email",
     "enhanced_repository_description": null,
