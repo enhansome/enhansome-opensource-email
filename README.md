@@ -67,7 +67,7 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### SMTP Server
 
-* [Postal](https://github.com/postalserver/postal) ⭐ 16,742 | 🐛 87 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail
+* [Postal](https://github.com/postalserver/postal) ⭐ 16,743 | 🐛 87 | 🌐 Ruby | 📅 2026-08-18 - A fully featured open source mail delivery platform for incoming & outgoing e-mail
 * [Maddy](https://github.com/foxcpp/maddy) ⭐ 6,068 | 🐛 140 | 🌐 Go | 📅 2026-07-24 -  Composable all-in-one mail server - `GPLv3`, `Go`
 * [Cuttlefish](https://github.com/mlandauer/cuttlefish) ⭐ 1,623 | 🐛 150 | 🌐 Ruby | 📅 2024-06-27 - Transactional email server with a lovely web interface - `AGPLv3`, `Ruby`
 * [James](https://github.com/apache/james-project) ⭐ 1,037 | 🐛 9 | 🌐 Java | 📅 2026-08-19 - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
@@ -84,9 +84,9 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Email Testing Application
 
-* [Maildev](https://github.com/maildev/maildev) ⭐ 5,992 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-19 -  mailbox SMTP Server + Web Interface for viewing and testing emails during development.
+* [Maildev](https://github.com/maildev/maildev) ⭐ 5,993 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-19 -  mailbox SMTP Server + Web Interface for viewing and testing emails during development.
 * [SMTP4dev](https://github.com/rnwood/smtp4dev) ⭐ 3,942 | 🐛 29 | 🌐 C# | 📅 2026-08-13 - the fake smtp email server for development and testing
-* [Inbucket](https://github.com/inbucket/inbucket) ⭐ 2,244 | 🐛 37 | 🌐 Go | 📅 2026-04-02 - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
+* [Inbucket](https://github.com/inbucket/inbucket) ⭐ 2,245 | 🐛 37 | 🌐 Go | 📅 2026-04-02 - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
 * [Opentrashmail](https://github.com/HaschekSolutions/opentrashmail) ⭐ 923 | 🐛 15 | 🌐 PHP | 📅 2025-08-28 - Selfhosted trashmail solution - Receive Emails via Web UI, JSON API and RSS feed
 * [Blackhole](https://github.com/kura/blackhole) ⭐ 61 | 🐛 3 | 🌐 Python | 📅 2022-10-28 -  Blackhole is an MTA written on top of asyncio, utilising async and await statements that dumps all mail it receives to /dev/null.
 * [TestMSG](https://github.com/yaroslaff/testmsg) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-01-21 - Generate RFC-compliant e-mail messages for sending over SMTP. DKIM signed (optionally). - `MIT`, `Python`
@@ -100,17 +100,17 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### JMAP Server & others
 
-* [JMAP](https://github.com/jmapio/jmap) ⭐ 1,363 | 🐛 13 | 🌐 Makefile | 📅 2026-07-17 -  JSON Meta Application Protocol Specification (JMAP) Specification
+* [JMAP](https://github.com/jmapio/jmap) ⭐ 1,364 | 🐛 13 | 🌐 Makefile | 📅 2026-07-17 -  JSON Meta Application Protocol Specification (JMAP) Specification
 * [James](https://github.com/apache/james-project) ⭐ 1,037 | 🐛 9 | 🌐 Java | 📅 2026-08-19 - James stands for Java Apache Mail Enterprise Server! - `Apache License Version 2.0`, `Java`
 * [Gomap](https://github.com/cwinters8/gomap) ⭐ 4 | 🐛 5 | 🌐 Go | 📅 2026-06-04 -  Go module for interfacing with JMAP servers
 
 ### Complete Email Server
 
-* [Docker Mailserver](https://github.com/docker-mailserver/docker-mailserver) ⭐ 18,759 | 🐛 111 | 🌐 Shell | 📅 2026-08-03 -  Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.  - `MIT`
+* [Docker Mailserver](https://github.com/docker-mailserver/docker-mailserver) ⭐ 18,760 | 🐛 111 | 🌐 Shell | 📅 2026-08-03 -  Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.  - `MIT`
 * [Mailinabox](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,389 | 🐛 613 | 🌐 Python | 📅 2026-05-24 - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-* [Stalwart](https://github.com/stalwartlabs/mail-server) ⭐ 14,258 | 🐛 73 | 🌐 Rust | 📅 2026-08-19 -  Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) - `GNU AGPLv3` & `Stalwart Enterprise License 1.0 (SELv1) Agreement`, `Rust`
-* [Mailu](https://github.com/Mailu/Mailu) ⭐ 7,457 | 🐛 124 | 🌐 Python | 📅 2026-08-17 -  Insular email distribution - mail server as Docker images
-* [Mox](https://github.com/mjl-/mox) ⭐ 5,816 | 🐛 199 | 🌐 Go | 📅 2026-08-18 -  modern full-featured open source secure mail server for low-maintenance self-hosted email - `MIT`, `Go`
+* [Stalwart](https://github.com/stalwartlabs/mail-server) ⭐ 14,264 | 🐛 73 | 🌐 Rust | 📅 2026-08-19 -  Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) - `GNU AGPLv3` & `Stalwart Enterprise License 1.0 (SELv1) Agreement`, `Rust`
+* [Mailu](https://github.com/Mailu/Mailu) ⭐ 7,458 | 🐛 124 | 🌐 Python | 📅 2026-08-17 -  Insular email distribution - mail server as Docker images
+* [Mox](https://github.com/mjl-/mox) ⭐ 5,817 | 🐛 199 | 🌐 Go | 📅 2026-08-18 -  modern full-featured open source secure mail server for low-maintenance self-hosted email - `MIT`, `Go`
 * [Forward Email](https://github.com/forwardemail/forwardemail.net) ⭐ 1,660 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-16 - All-in-one 100% open-source mail server alternative to Gmail/Mailchimp/Sendgrid (IMAP, POP3, SMTP, CalDAV) - `BUSL-1.1` & `MPL-2.0`, `JavaScript`
 * [Zimbra Open Source Edition](https://github.com/Zimbra/zm-build) ⭐ 243 | 🐛 13 | 🌐 Perl | 📅 2026-08-17 - A full featured email service.
 * [Excision-Mail](https://github.com/Excision-Mail/Excision-Mail) ⭐ 160 | 🐛 11 | 🌐 Jinja | 📅 2022-10-30 -  Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD `ISC License`
@@ -132,12 +132,12 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Forwarding
 
-* [Anonaddy](https://github.com/anonaddy/anonaddy) ⭐ 4,807 | 🐛 62 | 🌐 PHP | 📅 2026-07-30 -  Anonymous email forwarding
+* [Anonaddy](https://github.com/anonaddy/anonaddy) ⭐ 4,809 | 🐛 62 | 🌐 PHP | 📅 2026-07-30 -  Anonymous email forwarding
 
 ### SMTP Testing
 
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,124 | 🐛 255 | 🌐 Go | 📅 2024-02-13 - Web and API based SMTP testing  - `MIT`, `Go`
-* [MailPit](https://github.com/axllent/mailpit) ⭐ 10,158 | 🐛 1 | 🌐 Go | 📅 2026-08-16 - An email and SMTP testing tool with API for developers  - `MIT`, `Go`
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,126 | 🐛 255 | 🌐 Go | 📅 2024-02-13 - Web and API based SMTP testing  - `MIT`, `Go`
+* [MailPit](https://github.com/axllent/mailpit) ⭐ 10,159 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - An email and SMTP testing tool with API for developers  - `MIT`, `Go`
 * [MailCrab](https://github.com/tweedegolf/mailcrab) ⭐ 991 | 🐛 2 | 🌐 Rust | 📅 2026-08-02 - Email test server for development, written in Rust - `Apache License`, `Rust`
 * [Robin](https://github.com/mimecast/robin) ⭐ 18 | 🐛 6 | 🌐 Java | 📅 2025-10-10 -  Debug and development tool for MTA architects! Robin is a highly configurable SMTP client for testing and debugging SMTP servers. - `Java`, `Apache License 2.0`
 * [MailCatcher](https://mailcatcher.me/) - Catches mail and serves it via a webui  - `MIT`, `Ruby`
@@ -172,15 +172,15 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Marketing Platform
 
-* [Mautic](https://github.com/mautic/mautic) ⭐ 10,367 | 🐛 187 | 🌐 PHP | 📅 2026-08-19 - Open Source Marketing Automation Software
+* [Mautic](https://github.com/mautic/mautic) ⭐ 10,370 | 🐛 189 | 🌐 PHP | 📅 2026-08-19 - Open Source Marketing Automation Software
 * [Plunk](https://github.com/useplunk/plunk) ⭐ 5,376 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-17 - Open-Source Email Platform - `GNU Affero General Public License v3.0`, `typescript`
 * [Sendportal](https://github.com/mettle/sendportal) ⭐ 2,159 | 🐛 52 | 🌐 PHP | 📅 2024-04-19 - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.
 
 ### Newsletter Platform
 
-* [Listmonk](https://github.com/knadh/listmonk) ⭐ 22,995 | 🐛 107 | 🌐 Go | 📅 2026-08-18 - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+* [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,002 | 🐛 107 | 🌐 Go | 📅 2026-08-18 - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 * [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,744 | 🐛 115 | 🌐 JavaScript | 📅 2025-10-05 -  Self hosted newsletter app
-* [Keila](https://github.com/pentacent/keila) ⭐ 2,188 | 🐛 76 | 🌐 Elixir | 📅 2026-08-18 - Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue.
+* [Keila](https://github.com/pentacent/keila) ⭐ 2,189 | 🐛 76 | 🌐 Elixir | 📅 2026-08-18 - Keila is an Open Source alternative to newsletter tools like Mailchimp or Sendinblue.
 * [Notifuse](https://github.com/Notifuse/notifuse) ⭐ 2,049 | 🐛 4 | 🌐 Go | 📅 2026-08-18 - Notifuse is an open-source & modern emailing platform - `GNU Affero General Public License v3.0`, `go`, `typescript`
 * [phplist3](https://github.com/phpList/phplist3) ⭐ 869 | 🐛 91 | 🌐 PHP | 📅 2026-08-16 - Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.
 * [RSS2Newsletter](https://github.com/ElliotKillick/rss2newsletter) ⭐ 278 | 🐛 6 | 🌐 Python | 📅 2024-08-17 - Convert RSS/Atom feed to email newsletters - `GNU Affero General Public License v3.0`, `Python`
@@ -209,13 +209,13 @@ A curated list of resources on Email tools, server, framework, technology...
 ### Library
 
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) ⭐ 22,279 | 🐛 30 | 🌐 PHP | 📅 2026-08-17 -  The classic email sending library for PHP
-* [MailKit](https://github.com/jstedfast/MailKit) ⭐ 6,840 | 🐛 9 | 🌐 C# | 📅 2026-08-17 -  A cross-platform .NET library for IMAP, POP3, and SMTP.
+* [MailKit](https://github.com/jstedfast/MailKit) ⭐ 6,840 | 🐛 9 | 🌐 C# | 📅 2026-08-19 -  A cross-platform .NET library for IMAP, POP3, and SMTP.
 * [lettre](https://github.com/lettre/lettre) ⭐ 2,253 | 🐛 82 | 🌐 Rust | 📅 2026-08-03 - a mailer library for Rust - `MIT`, `Rust`
 * [go-smtp](https://github.com/emersion/go-smtp) ⭐ 2,041 | 🐛 32 | 🌐 Go | 📅 2026-08-18 - An SMTP client & server library written in Go - `MIT`, `Go`
 * [MimeKit](https://github.com/jstedfast/MimeKit) ⭐ 2,000 | 🐛 12 | 🌐 C# | 📅 2026-08-15 -  A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 * [Anymail](https://github.com/anymail/django-anymail/) ⭐ 1,897 | 🐛 16 | 🌐 Python | 📅 2026-07-30 - Django email backends and webhooks for multiple ESP - `BSD 3-Clause`, `Python`
 * [Swoosh](https://github.com/swoosh/swoosh) ⭐ 1,522 | 🐛 14 | 🌐 Elixir | 📅 2026-08-17 -  Compose, deliver and test your emails easily in Elixir - `MIT`, `Elixir`
-* [go-mail](https://github.com/wneessen/go-mail) ⭐ 1,468 | 🐛 15 | 🌐 Go | 📅 2026-08-17 - Easy to use, yet comprehensive library for sending mails with Go - `MIT`, `Go`
+* [go-mail](https://github.com/wneessen/go-mail) ⭐ 1,469 | 🐛 15 | 🌐 Go | 📅 2026-08-17 - Easy to use, yet comprehensive library for sending mails with Go - `MIT`, `Go`
 * [Nette Mail](https://github.com/nette/mail) ⭐ 493 | 🐛 0 | 🌐 PHP | 📅 2026-08-18 - Handy email creation and transfer library for PHP with both text and MIME-compliant support.
 * [Stampie](https://github.com/Stampie/Stampie) ⚠️ Archived - Library for using online Email providers for PHP
 * [Play-Mailer](https://github.com/playframework/play-mailer) ⭐ 252 | 🐛 22 | 🌐 Scala | 📅 2026-08-08 - Play mailer plugin for Scala
@@ -238,13 +238,13 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Email Builder & Visual Editing Component
 
-* [GrapesJS](https://github.com/artf/grapesjs) ⭐ 26,143 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-11 - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+* [GrapesJS](https://github.com/artf/grapesjs) ⭐ 26,146 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-11 - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 * [React Email Editor](https://github.com/unlayer/react-email-editor) ⭐ 5,206 | 🐛 240 | 🌐 TypeScript | 📅 2026-08-12 -  Drag-n-Drop Email Editor Component for React.js
-* [maily.to](https://github.com/arikchakma/maily.to) ⭐ 3,938 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-21 -  Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. - `MIT`, `Typescript`
+* [maily.to](https://github.com/arikchakma/maily.to) ⭐ 3,940 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-21 -  Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. - `MIT`, `Typescript`
 * [Easy Email](https://github.com/zalify/easy-email) ⭐ 2,866 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-13 -  DnD Email Editor based on React.js and MJML.
 * [Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) ⭐ 2,294 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-08 - Drag and drop HTML email designer - `MIT`, `Typescript`
 * [Mosaico](https://github.com/voidlabs/mosaico) ⭐ 1,781 | 🐛 22 | 🌐 HTML | 📅 2025-08-22 - Responsive Email Template Editor
-* [email-builder-js](https://github.com/usewaypoint/email-builder-js) ⭐ 1,734 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-09 -  A free and open-source block-based email template builder - `MIT`, `Typescript`
+* [email-builder-js](https://github.com/usewaypoint/email-builder-js) ⭐ 1,735 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-09 -  A free and open-source block-based email template builder - `MIT`, `Typescript`
 * [emailmd](https://github.com/unmta/emailmd) ⭐ 1,302 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-15 -  Render markdown into email-safe HTML  - `MIT`, `Typescript`
 * [Vue Email Editor](https://github.com/unlayer/vue-email-editor) ⭐ 665 | 🐛 70 | 🌐 Vue | 📅 2026-03-27 -  Drag-n-Drop Email Editor Component for Vue.js
 * [MySigMail Card](https://github.com/mysigmail/card) ⭐ 417 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-07 - An open source html email template builder with drag & drop editor
@@ -257,16 +257,16 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### Groupware / Webmail
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,863 | 🐛 978 | 🌐 TypeScript | 📅 2026-08-19 - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,863 | 🐛 980 | 🌐 TypeScript | 📅 2026-08-19 - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 * [Roundcube](https://github.com/roundcube/roundcubemail) ⭐ 7,124 | 🐛 482 | 🌐 PHP | 📅 2026-08-16 -  The Roundcube Webmail suite - `GPLv3`, `PHP`
 * [Cypht](https://github.com/cypht-org/cypht) ⭐ 1,687 | 🐛 141 | 🌐 PHP | 📅 2026-08-15 -  Cypht: Lightweight Open Source webmail written in PHP and JavaScript - `GNU Lesser General Public License v2.1`, `PHP`, `Javascript`
-* [Egroupware](https://github.com/EGroupware/egroupware) ⭐ 295 | 🐛 20 | 🌐 PHP | 📅 2026-08-19 - Web based groupware server written in PHP - `GPLv2`, `PHP`
+* [Egroupware](https://github.com/EGroupware/egroupware) ⭐ 295 | 🐛 19 | 🌐 PHP | 📅 2026-08-19 - Web based groupware server written in PHP - `GPLv2`, `PHP`
 * [Bluemind](https://www.bluemind.net/en/) - Collaborative messaging solution
 * [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕
 
 ### CLI
 
-* [Himalaya](https://github.com/soywod/himalaya) ⭐ 7,050 | 🐛 7 | 🌐 Rust | 📅 2026-08-16 - CLI to manager email - `MIT`, `Rust`
+* [Himalaya](https://github.com/soywod/himalaya) ⭐ 7,052 | 🐛 7 | 🌐 Rust | 📅 2026-08-16 - CLI to manager email - `MIT`, `Rust`
 
 ## Security
 
@@ -282,17 +282,18 @@ A curated list of resources on Email tools, server, framework, technology...
 
 ### DMARC
 
-* [parsedmarc](https://github.com/domainaware/parsedmarc) ⭐ 1,283 | 🐛 4 | 🌐 Python | 📅 2026-08-18 -  A Python package and CLI for parsing aggregate and forensic DMARC reports  - `Apache License version 2.0`, `Python`
-* [checkdmarc](https://github.com/domainaware/checkdmarc) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-08-17 -  A parser for SPF and DMARC DNS records - `Apache License version 2.0`, `Python`
+* [parsedmarc](https://github.com/domainaware/parsedmarc) ⭐ 1,283 | 🐛 3 | 🌐 Python | 📅 2026-08-19 -  A Python package and CLI for parsing aggregate and forensic DMARC reports  - `Apache License version 2.0`, `Python`
+* [checkdmarc](https://github.com/domainaware/checkdmarc) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-08-19 -  A parser for SPF and DMARC DNS records - `Apache License version 2.0`, `Python`
 * [DmarcSrg](https://github.com/liuch/dmarc-srg) ⭐ 299 | 🐛 38 | 🌐 PHP | 📅 2026-08-13 -  A php parser, viewer and summary report generator for incoming DMARC reports.
 * [dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) ⭐ 279 | 🐛 11 | 🌐 Go | 📅 2024-06-17 - Convert DMARC report files from xml to human-readable formats
 * [Open DMARC Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) ⭐ 272 | 🐛 14 | 🌐 PHP | 📅 2024-06-17 -  Open DMARC Analyzer is an Open Source DMARC Report Analyzer to be used with DMARC reports that have been parsed by John Levine's rrdmarc script or techsneeze's dmarcts-report-parser.
 * [dmarcts-report-parser](https://github.com/techsneeze/dmarcts-report-parser) ⭐ 244 | 🐛 16 | 🌐 Perl | 📅 2023-08-19 -  A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts ) - `GNU GPL v3`, `Perl`
 * [Viesti-Reports](https://github.com/antedebaas/Viesti-Reports) ⭐ 116 | 🐛 25 | 🌐 PHP | 📅 2025-11-12 - DMARC & SMTP-TLS Reports processor and visualizer and BIMI file hoster - `GPL v2`, `PHP`
+* [DMARC Analyzer](https://github.com/dmarc-analyzer-net/DmarcAnalyzerApp) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-08-18 -  Self-hosted DMARC aggregate report monitoring with per-client dashboards and multi-tenant separation; also ingests MTA-STS and TLS-RPT reports  - `Apache License version 2.0`, `C#`
 
 ### Privacy
 
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,929 | 🐛 253 | 🌐 Python | 📅 2026-08-17 - Protect your online identity with email alias
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,932 | 🐛 253 | 🌐 Python | 📅 2026-08-17 - Protect your online identity with email alias
 
 ### Disposable emails domain list
 
