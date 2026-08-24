@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T02:35:19Z",
                 "owner": "postalserver",
                 "repo": "postal",
-                "stars": 16761
+                "stars": 16765
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-24T20:55:23Z",
                 "owner": "foxcpp",
                 "repo": "maddy",
-                "stars": 6073
+                "stars": 6074
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 38917208,
                 "language": "Java",
-                "last_commit": "2026-08-22T06:44:35Z",
+                "last_commit": "2026-08-24T12:11:49Z",
                 "owner": "apache",
                 "repo": "james-project",
-                "stars": 1037
+                "stars": 1038
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 67481959,
                 "language": "JavaScript",
-                "last_commit": "2026-07-20T07:50:39Z",
+                "last_commit": "2026-08-24T11:49:15Z",
                 "owner": "zone-eu",
                 "repo": "zone-mta",
-                "stars": 669
+                "stars": 670
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 214820617,
                 "language": "Go",
-                "last_commit": "2026-08-20T10:12:42Z",
+                "last_commit": "2026-08-24T10:30:24Z",
                 "owner": "decke",
                 "repo": "smtprelay",
                 "stars": 630
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 602161517,
                 "language": "Rust",
-                "last_commit": "2026-08-19T18:48:43Z",
+                "last_commit": "2026-08-24T05:16:13Z",
                 "owner": "KumoCorp",
                 "repo": "kumomta",
                 "stars": 523
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-19T00:56:08Z",
                 "owner": "maildev",
                 "repo": "maildev",
-                "stars": 6018
+                "stars": 6022
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-04-02T07:14:36Z",
                 "owner": "inbucket",
                 "repo": "inbucket",
-                "stars": 2261
+                "stars": 2262
               }
             },
             {
@@ -268,7 +268,7 @@
                 "archived": false,
                 "id": 47690515,
                 "language": "C",
-                "last_commit": "2026-08-22T19:11:01Z",
+                "last_commit": "2026-08-23T19:00:03Z",
                 "owner": "dovecot",
                 "repo": "core",
                 "stars": 1241
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 38917208,
                 "language": "Java",
-                "last_commit": "2026-08-22T06:44:35Z",
+                "last_commit": "2026-08-24T12:11:49Z",
                 "owner": "apache",
                 "repo": "james-project",
-                "stars": 1037
+                "stars": 1038
               }
             },
             {
@@ -298,7 +298,7 @@
                 "archived": false,
                 "id": 59071965,
                 "language": "C",
-                "last_commit": "2026-08-21T20:56:35Z",
+                "last_commit": "2026-08-24T12:41:44Z",
                 "owner": "cyrusimap",
                 "repo": "cyrus-imapd",
                 "stars": 643
@@ -320,7 +320,7 @@
                 "archived": false,
                 "id": 26741362,
                 "language": "Makefile",
-                "last_commit": "2026-07-17T03:45:24Z",
+                "last_commit": "2026-08-24T05:19:23Z",
                 "owner": "jmapio",
                 "repo": "jmap",
                 "stars": 1366
@@ -335,10 +335,10 @@
                 "archived": false,
                 "id": 38917208,
                 "language": "Java",
-                "last_commit": "2026-08-22T06:44:35Z",
+                "last_commit": "2026-08-24T12:11:49Z",
                 "owner": "apache",
                 "repo": "james-project",
-                "stars": 1037
+                "stars": 1038
               }
             },
             {
@@ -372,10 +372,10 @@
                 "archived": false,
                 "id": 33037215,
                 "language": "Shell",
-                "last_commit": "2026-08-19T20:52:34Z",
+                "last_commit": "2026-08-24T12:34:10Z",
                 "owner": "docker-mailserver",
                 "repo": "docker-mailserver",
-                "stars": 18787
+                "stars": 18792
               }
             },
             {
@@ -402,10 +402,10 @@
                 "archived": false,
                 "id": 610292163,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:48:00Z",
+                "last_commit": "2026-08-24T13:32:34Z",
                 "owner": "stalwartlabs",
                 "repo": "stalwart",
-                "stars": 14318
+                "stars": 14325
               }
             },
             {
@@ -420,7 +420,7 @@
                 "last_commit": "2026-08-21T12:04:49Z",
                 "owner": "Mailu",
                 "repo": "Mailu",
-                "stars": 7469
+                "stars": 7471
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2026-08-22T17:43:04Z",
                 "owner": "forwardemail",
                 "repo": "forwardemail.net",
-                "stars": 1663
+                "stars": 1662
               }
             },
             {
@@ -544,7 +544,7 @@
                 "archived": false,
                 "id": 285586937,
                 "language": "PHP",
-                "last_commit": "2026-08-19T13:51:48Z",
+                "last_commit": "2026-08-24T13:10:49Z",
                 "owner": "Probesys",
                 "repo": "agentj",
                 "stars": 33
@@ -574,6 +574,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Anonaddy",
+              "description": "Anonymous email forwarding",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193104152,
+                "language": "PHP",
+                "last_commit": "2026-07-30T13:24:24Z",
+                "owner": "anonaddy",
+                "repo": "anonaddy",
+                "stars": 4815
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Forwarding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MailHog",
               "description": "Web and API based SMTP testing - ,",
               "children": [],
@@ -584,7 +606,7 @@
                 "last_commit": "2024-02-13T18:38:41Z",
                 "owner": "mailhog",
                 "repo": "MailHog",
-                "stars": 16129
+                "stars": 16132
               }
             },
             {
@@ -599,7 +621,7 @@
                 "last_commit": "2026-08-21T23:59:24Z",
                 "owner": "axllent",
                 "repo": "mailpit",
-                "stars": 10187
+                "stars": 10190
               }
             },
             {
@@ -614,7 +636,7 @@
                 "last_commit": "2026-08-02T12:31:11Z",
                 "owner": "tweedegolf",
                 "repo": "mailcrab",
-                "stars": 992
+                "stars": 993
               }
             },
             {
@@ -751,10 +773,10 @@
                 "archived": false,
                 "id": 322539168,
                 "language": "Go",
-                "last_commit": "2026-08-20T09:52:34Z",
+                "last_commit": "2026-08-24T11:33:00Z",
                 "owner": "AfterShip",
                 "repo": "email-verifier",
-                "stars": 1601
+                "stars": 1602
               }
             },
             {
@@ -769,7 +791,7 @@
                 "last_commit": "2026-06-26T12:52:19Z",
                 "owner": "JoshData",
                 "repo": "python-email-validator",
-                "stars": 1437
+                "stars": 1438
               }
             },
             {
@@ -906,10 +928,10 @@
                 "archived": false,
                 "id": 12204147,
                 "language": "PHP",
-                "last_commit": "2026-08-21T14:23:55Z",
+                "last_commit": "2026-08-24T11:21:55Z",
                 "owner": "mautic",
                 "repo": "mautic",
-                "stars": 10383
+                "stars": 10384
               }
             },
             {
@@ -921,10 +943,10 @@
                 "archived": false,
                 "id": 827971889,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T10:41:04Z",
+                "last_commit": "2026-08-23T19:04:18Z",
                 "owner": "useplunk",
                 "repo": "plunk",
-                "stars": 5384
+                "stars": 5387
               }
             },
             {
@@ -961,7 +983,7 @@
                 "last_commit": "2026-08-22T08:24:51Z",
                 "owner": "knadh",
                 "repo": "listmonk",
-                "stars": 23065
+                "stars": 23092
               }
             },
             {
@@ -976,7 +998,7 @@
                 "last_commit": "2025-10-05T17:53:53Z",
                 "owner": "Mailtrain-org",
                 "repo": "mailtrain",
-                "stars": 5746
+                "stars": 5747
               }
             },
             {
@@ -991,7 +1013,7 @@
                 "last_commit": "2026-08-18T23:14:50Z",
                 "owner": "pentacent",
                 "repo": "keila",
-                "stars": 2190
+                "stars": 2191
               }
             },
             {
@@ -1006,7 +1028,7 @@
                 "last_commit": "2026-08-18T08:23:57Z",
                 "owner": "Notifuse",
                 "repo": "notifuse",
-                "stars": 2070
+                "stars": 2073
               }
             },
             {
@@ -1079,7 +1101,7 @@
                 "last_commit": "2026-08-17T11:50:39Z",
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18207
+                "stars": 18209
               }
             },
             {
@@ -1091,10 +1113,10 @@
                 "archived": false,
                 "id": 161318092,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T15:47:36Z",
+                "last_commit": "2026-08-24T12:48:25Z",
                 "owner": "maizzle",
                 "repo": "framework",
-                "stars": 1599
+                "stars": 1600
               }
             }
           ],
@@ -1146,7 +1168,7 @@
                 "last_commit": "2025-04-04T08:12:02Z",
                 "owner": "matcornic",
                 "repo": "hermes",
-                "stars": 3023
+                "stars": 3024
               }
             },
             {
@@ -1228,7 +1250,7 @@
                 "last_commit": "2026-08-03T11:10:09Z",
                 "owner": "lettre",
                 "repo": "lettre",
-                "stars": 2254
+                "stars": 2255
               }
             },
             {
@@ -1285,7 +1307,7 @@
                 "archived": false,
                 "id": 53172916,
                 "language": "Elixir",
-                "last_commit": "2026-08-23T08:12:11Z",
+                "last_commit": "2026-08-24T10:02:37Z",
                 "owner": "swoosh",
                 "repo": "swoosh",
                 "stars": 1523
@@ -1518,7 +1540,7 @@
                 "last_commit": "2026-08-11T13:16:44Z",
                 "owner": "GrapesJS",
                 "repo": "grapesjs",
-                "stars": 26157
+                "stars": 26161
               }
             },
             {
@@ -1563,7 +1585,7 @@
                 "last_commit": "2026-08-13T07:26:13Z",
                 "owner": "zalify",
                 "repo": "easy-email-editor",
-                "stars": 2881
+                "stars": 2888
               }
             },
             {
@@ -1608,7 +1630,7 @@
                 "last_commit": "2026-02-09T19:17:18Z",
                 "owner": "usewaypoint",
                 "repo": "email-builder-js",
-                "stars": 1738
+                "stars": 1739
               }
             },
             {
@@ -1650,7 +1672,7 @@
                 "archived": false,
                 "id": 470801259,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T15:08:25Z",
+                "last_commit": "2026-08-24T11:23:46Z",
                 "owner": "mysigmail",
                 "repo": "card",
                 "stars": 417
@@ -1665,7 +1687,7 @@
                 "archived": false,
                 "id": 328703449,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T09:57:54Z",
+                "last_commit": "2026-08-24T14:02:09Z",
                 "owner": "Badsender-com",
                 "repo": "LePatron.email",
                 "stars": 91
@@ -1738,10 +1760,10 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:33:39Z",
+                "last_commit": "2026-08-24T14:12:11Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7866
+                "stars": 7873
               }
             },
             {
@@ -1756,7 +1778,7 @@
                 "last_commit": "2026-08-23T07:47:09Z",
                 "owner": "roundcube",
                 "repo": "roundcubemail",
-                "stars": 7126
+                "stars": 7127
               }
             },
             {
@@ -1771,7 +1793,7 @@
                 "last_commit": "2026-08-15T11:53:04Z",
                 "owner": "cypht-org",
                 "repo": "cypht",
-                "stars": 1693
+                "stars": 1694
               }
             },
             {
@@ -1783,7 +1805,7 @@
                 "archived": false,
                 "id": 58637252,
                 "language": "PHP",
-                "last_commit": "2026-08-23T16:04:17Z",
+                "last_commit": "2026-08-24T12:53:42Z",
                 "owner": "EGroupware",
                 "repo": "egroupware",
                 "stars": 295
@@ -1793,6 +1815,28 @@
           "description": null,
           "node_type": "group",
           "title": "Groupware / Webmail"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Himalaya",
+              "description": "CLI to manager email - ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 324025361,
+                "language": "Rust",
+                "last_commit": "2026-08-23T19:33:20Z",
+                "owner": "pimalaya",
+                "repo": "himalaya",
+                "stars": 7095
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CLI"
         }
       ],
       "title": "Email Solution"
@@ -1923,10 +1967,10 @@
                 "archived": false,
                 "id": 120373756,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:30:33Z",
+                "last_commit": "2026-08-24T13:21:30Z",
                 "owner": "domainaware",
                 "repo": "parsedmarc",
-                "stars": 1285
+                "stars": 1286
               }
             },
             {
@@ -1956,7 +2000,7 @@
                 "last_commit": "2026-08-13T08:57:52Z",
                 "owner": "liuch",
                 "repo": "dmarc-srg",
-                "stars": 299
+                "stars": 300
               }
             },
             {
@@ -2043,6 +2087,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SimpleLogin",
+              "description": "Protect your online identity with email alias",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228877522,
+                "language": "Python",
+                "last_commit": "2026-08-17T09:58:47Z",
+                "owner": "simple-login",
+                "repo": "app",
+                "stars": 6945
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Privacy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "disposable-email-domains",
               "description": "a list of disposable and temporary email address domains - ,",
               "children": [],
@@ -2050,10 +2116,10 @@
                 "archived": false,
                 "id": 23594485,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:21:59Z",
+                "last_commit": "2026-08-24T06:39:00Z",
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5441
+                "stars": 5444
               }
             },
             {
@@ -2068,7 +2134,7 @@
                 "last_commit": "2026-08-09T12:32:01Z",
                 "owner": "disposable",
                 "repo": "disposable",
-                "stars": 1433
+                "stars": 1435
               }
             },
             {
@@ -2080,7 +2146,7 @@
                 "archived": false,
                 "id": 177930612,
                 "language": "Python",
-                "last_commit": "2026-08-17T05:49:28Z",
+                "last_commit": "2026-08-24T06:04:32Z",
                 "owner": "groundcat",
                 "repo": "disposable-email-domain-list",
                 "stars": 107
@@ -2095,7 +2161,7 @@
                 "archived": false,
                 "id": 276372403,
                 "language": "PHP",
-                "last_commit": "2026-08-23T17:58:15Z",
+                "last_commit": "2026-08-24T14:06:24Z",
                 "owner": "amieiro",
                 "repo": "disposable-email-domains",
                 "stars": 90
@@ -2125,7 +2191,7 @@
                 "archived": false,
                 "id": 178031212,
                 "language": "Shell",
-                "last_commit": "2026-08-23T02:21:34Z",
+                "last_commit": "2026-08-24T02:20:29Z",
                 "owner": "kslr",
                 "repo": "disposable-email-domains",
                 "stars": 30
@@ -2140,7 +2206,7 @@
                 "archived": false,
                 "id": 1282111378,
                 "language": "Python",
-                "last_commit": "2026-08-23T06:58:36Z",
+                "last_commit": "2026-08-24T07:17:44Z",
                 "owner": "james-sib",
                 "repo": "disposable-email-domains",
                 "stars": 0
@@ -2169,7 +2235,7 @@
             "last_commit": "2026-07-23T14:45:22Z",
             "owner": "imapsync",
             "repo": "imapsync",
-            "stars": 4128
+            "stars": 4129
           }
         },
         {
@@ -2192,7 +2258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:01:40.307Z",
+    "last_updated": "2026-08-24T14:13:45.939Z",
     "original_repository": "Mindbaz/awesome-opensource-email",
     "original_repository_id": 450527643,
     "original_repository_sha": "20065fea3dc1fdd570cf0309f4655c0518cbfd5d",
